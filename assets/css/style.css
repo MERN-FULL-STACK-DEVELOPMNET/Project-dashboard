@@ -1,0 +1,219 @@
+.side-bg-container {
+    background-color: #454747;
+    background-size: cover;
+    width: 15vw;
+}
+.upper-bg-container {
+    background-color: #454747;
+    background-size; cover;
+    height: 25vh;
+    width: 100vw;
+}
+.bottom-bg-container {
+    background-color: #292929;
+    background-size: cover;
+    width: 100vw;
+}
+.flex-element-portfoilo {
+    display: flex;
+    flex-flow: row;
+}
+.flex-elemnt-upper-bottom {
+    display: flex;
+    flex-flow: column;
+
+}
+* {
+    font-family: "Roboto";
+}
+.heading-side {
+    color: white;
+    position: relative;
+    left: 2vw;
+
+    font-weight: normal;
+}
+.side-button {
+    height: 3.5vw;
+    width: 15vw;
+    background-color: #454747;
+    margin: 1vh;
+    color: white;
+    padding: 0vh 0vh 0vh 5vh;
+    font-size: 1.5vw;
+    border-color: #454747;
+    border-width: 0px;
+    text-align: left;
+}
+.upper-button {
+    height: 2.3vw;
+    width: 6vw;
+    border-radius: 1vw;
+    margin: 15px;
+    background-color: #292929;
+    color: white;
+    position: relative;
+    top: 3vw;
+    left: 7vw;
+}
+.project-card {
+    border-radius: 2vh;
+    background-color: #454747;
+    position: relative;
+    bottom: 2vw;
+    height: 25vh;
+    width: 20vw;
+    margin: 15px; 
+}
+.announcement-card {
+    height: 40vh;
+    width: 20vw;
+    position: relative;
+    bottom: 5.5vw;
+    border-radius: 1vw;
+    background-color: #454747;
+    margin: 15px;
+}
+.people-card {
+    background-color: #454747;
+    height: 30vh;
+    width: 20vw;
+    border-radius: 1vw; 
+    position: relative;
+    bottom: 6vw;
+    left: 1vw;
+
+}
+.people-heading {
+    color: white;
+    font-weight: normal;
+    position: relative;
+    bottom: 5vw;
+    left: 1vw;
+}
+
+
+.announcement-heading {
+    color: white;
+    font-weight: normal;
+    position: relative;
+    bottom: 4.5vw;
+    left: 1vw;
+
+}
+.project-heading {
+    color: white;
+    font-weight: normal;
+    position: relative;
+    left: 0.2vw;
+}
+.name-card {
+    border-radius: 4vw;
+    height: 5vw;
+    width: 5vw;
+    background-color: grey;
+    position: relative;
+    top: 7vh;
+
+}
+.name-heading {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 4vh;
+    left: 1vw;
+}
+.hithere-para {
+    color: white;
+    font-weight: normal;
+    font-size: 2.5vh;
+    position: relative;
+    top: 7vh;
+    left: 1vw;
+}
+.account-icon {
+    height: 4vw;
+    width: 4vw;
+    border-radius: 2vw;
+    position: relative;
+    left: 16vw;
+    top: 1vw;
+    background-color: grey;
+}
+.account-name {
+    color: white;
+    font-weight: normal;
+    position: relative;
+    left: 17vw;
+    top: 1.2vw;
+}
+.search-bar {
+    background-color: grey;
+    border-radius: 1vw;
+    height: 2vw;
+    width: 36vw;
+    border: 0px;
+    position: relative;
+    top: 1vw;
+
+}
+.flex-row {
+    display: flex;
+    flex-flow: row;
+}
+.flex-column {
+    display: flex;
+    flex-flow: column;
+}
+.icon-size {
+    height: 2vw;
+    width: 2vw;
+    position: relative;
+    right: 1vw;
+    top: 0.3vw;
+}
+.search-icon-size {
+    height: 2vw;
+    width: 2vw;
+    position: relative;
+    top: 2vw;
+}
+.dashborad-icon {
+    height: 3vw;
+    width: 3vw;
+    position: relative;
+    top: 1vh;
+    right: 0.5vw;
+}
+.bell-icon {
+    height: 2vw;
+    width: 2vw;
+    position: relative;
+    top: 2vw;
+    left: 15vw;
+}
+.project-violet-card {
+    background-color: #d20cfa;
+    height: 25vh;
+    width: 2vw;
+    border-top-left-radius: 1vw;
+    border-bottom-left-radius: 1vw;
+}
+.project-heading {
+    color: white;
+    font-weight: normal;
+    position: relative;
+    right: 2vw;
+}
+.project-description {
+    color: #bec1c2;
+    font-weight: normal;
+    position: relative;
+    left: 1vw;
+}
+.fork-icon {
+    height: 2vw;
+    width: 2vw;
+    position: relative;
+    left: 16vw;
+}
